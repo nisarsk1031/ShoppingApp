@@ -1,0 +1,37 @@
+.parent{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    height: 250px;
+    width: 250px;
+    margin-top: 30px;
+}
+.image:hover{
+    box-shadow: black 3px 3px 5px,black -3px -3px 5px ;
+}
+.card{
+    background-color:rgb(118, 123, 153);
+    margin: 10px;
+    width: 300px;
+    box-shadow: black 4px 4px 6px, black -4px -4px 6px;
+}
+.card:hover{
+    box-shadow: none;
+}
+.catdata{
+/* display: flex;
+align-items: center;
+justify-content: center; */
+    width: 100%;
+    height: 60px;
+    background-color: #88eb7f;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-left: -100px;
+   
+    
+    
+}

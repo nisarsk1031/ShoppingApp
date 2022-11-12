@@ -1,0 +1,19 @@
+.mhead{
+    width: 95%;
+    height: 70px;
+    margin: auto;
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mhead a{
+    color: white;
+}
+input {
+    margin-left: 80px;
+}
+button{
+    margin-right: 60px;
+}
